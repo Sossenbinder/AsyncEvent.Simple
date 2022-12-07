@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>11</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>AsyncEvent.Simple</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Stefan Schranz</Authors>
+    <Description>
+      This library provides a very simple asynchronous event, as a logical addition to the more sync-friendly C# events.
+    </Description>
+  </PropertyGroup>
+
+</Project>
